@@ -5,10 +5,11 @@
  */
 package spp.proyecto2.p1;
 import java.util.Scanner;
-/**
- *
- * @author marielaramonesbalvoa
- */
+//Mariela Ramones Balvoa
+//Catalina Guadalupe Domínguez Garza
+//Kevin Gerardo Hinojosa Castellanos
+//Alejandro García Monroy
+//Lisdy Rohmann
 public class SppProyecto2P1 {
 
     /**
